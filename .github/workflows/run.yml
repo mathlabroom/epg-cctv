@@ -34,7 +34,7 @@ jobs:
     # 步骤 4：执行你的 Python 抓取脚本
     - name: Run EPG parser script
       run: |
-        python generate_cctv_epg.py
+        python clawer.py
 
     # 步骤 5：自动将生成的 cctv_epg.xml 文件提交并推送到你的 GitHub 仓库
     - name: Commit and push changes
