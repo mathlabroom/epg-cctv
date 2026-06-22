@@ -1188,11 +1188,11 @@
   <programme start="20260623165900 +0800" stop="20260623171500 +0800" channel="cctv4">
     <title lang="zh">平凡匠心-2026-8</title>
   </programme>
-  <programme start="20260623171500 +0800" stop="20260623180000 +0800" channel="cctv4">
+  <programme start="20260623171500 +0800" stop="20260623180300 +0800" channel="cctv4">
     <title lang="zh">远方的家2026-129</title>
   </programme>
-  <programme start="20260623180000 +0800" stop="20260623190000 +0800" channel="cctv4">
-    <title lang="zh">中国新闻</title>
+  <programme start="20260623180300 +0800" stop="20260623190000 +0800" channel="cctv4">
+    <title lang="zh">荟萃节目-布达拉宫1</title>
   </programme>
   <programme start="20260623190000 +0800" stop="20260623193000 +0800" channel="cctv4">
     <title lang="zh">中国新闻</title>
@@ -4827,11 +4827,14 @@
   <programme start="20260623162800 +0800" stop="20260623171400 +0800" channel="cctveurope">
     <title lang="zh">红石榴餐厅第8集</title>
   </programme>
-  <programme start="20260623171400 +0800" stop="20260623180000 +0800" channel="cctveurope">
+  <programme start="20260623171400 +0800" stop="20260623180500 +0800" channel="cctveurope">
     <title lang="zh">红石榴餐厅第9集</title>
   </programme>
-  <programme start="20260623180000 +0800" stop="20260623190000 +0800" channel="cctveurope">
-    <title lang="zh">中国新闻</title>
+  <programme start="20260623180500 +0800" stop="20260623183100 +0800" channel="cctveurope">
+    <title lang="zh">走遍中国-2026-98</title>
+  </programme>
+  <programme start="20260623183100 +0800" stop="20260623190000 +0800" channel="cctveurope">
+    <title lang="zh">中国文艺-2026-123</title>
   </programme>
   <programme start="20260623190000 +0800" stop="20260623193000 +0800" channel="cctveurope">
     <title lang="zh">中国新闻</title>
@@ -5187,17 +5190,17 @@
   <programme start="20260623153000 +0800" stop="20260623162000 +0800" channel="cctvamerica">
     <title lang="zh">远方的家2026-128</title>
   </programme>
-  <programme start="20260623162000 +0800" stop="20260623162800 +0800" channel="cctvamerica">
-    <title lang="zh">记住乡愁-片段展播-2025-13</title>
-  </programme>
-  <programme start="20260623162800 +0800" stop="20260623171300 +0800" channel="cctvamerica">
+  <programme start="20260623162000 +0800" stop="20260623170500 +0800" channel="cctvamerica">
     <title lang="zh">老闺蜜-(四套)-9/48</title>
   </programme>
-  <programme start="20260623171300 +0800" stop="20260623180000 +0800" channel="cctvamerica">
+  <programme start="20260623170500 +0800" stop="20260623175000 +0800" channel="cctvamerica">
     <title lang="zh">老闺蜜-(四套)-10/48</title>
   </programme>
-  <programme start="20260623180000 +0800" stop="20260623190000 +0800" channel="cctvamerica">
-    <title lang="zh">中国新闻</title>
+  <programme start="20260623175000 +0800" stop="20260623181700 +0800" channel="cctvamerica">
+    <title lang="zh">国家记忆-2026-50</title>
+  </programme>
+  <programme start="20260623181700 +0800" stop="20260623190000 +0800" channel="cctvamerica">
+    <title lang="zh">远方的家2026-128</title>
   </programme>
   <programme start="20260623190000 +0800" stop="20260623193000 +0800" channel="cctvamerica">
     <title lang="zh">中国新闻</title>
