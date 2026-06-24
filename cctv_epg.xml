@@ -157,13 +157,13 @@
     <title lang="zh">前情提要-种墨园-第2集</title>
   </programme>
   <programme start="20260624200100 +0800" stop="20260624205200 +0800" channel="cctv1">
-    <title lang="zh">种墨园2/34</title>
+    <title lang="zh">种墨园第2集</title>
   </programme>
   <programme start="20260624205200 +0800" stop="20260624205600 +0800" channel="cctv1">
     <title lang="zh">前情提要-种墨园-第3集</title>
   </programme>
   <programme start="20260624205600 +0800" stop="20260624214600 +0800" channel="cctv1">
-    <title lang="zh">种墨园3/34</title>
+    <title lang="zh">种墨园第3集</title>
   </programme>
   <programme start="20260624214600 +0800" stop="20260624215300 +0800" channel="cctv1">
     <title lang="zh">非遗里的中国-MV</title>
@@ -270,25 +270,25 @@
   <programme start="20260625190000 +0800" stop="20260625193800 +0800" channel="cctv1">
     <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20260625193800 +0800" stop="20260625200100 +0800" channel="cctv1">
+  <programme start="20260625193800 +0800" stop="20260625200000 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20260625200100 +0800" stop="20260625200600 +0800" channel="cctv1">
-    <title lang="zh">前情提要-电视剧（高清文件）</title>
+  <programme start="20260625200000 +0800" stop="20260625200500 +0800" channel="cctv1">
+    <title lang="zh">前情提要-种墨园-4/34</title>
   </programme>
-  <programme start="20260625200600 +0800" stop="20260625205600 +0800" channel="cctv1">
-    <title lang="zh">电视剧-（高清文件）</title>
+  <programme start="20260625200500 +0800" stop="20260625205400 +0800" channel="cctv1">
+    <title lang="zh">种墨园4/34</title>
   </programme>
-  <programme start="20260625205600 +0800" stop="20260625205700 +0800" channel="cctv1">
-    <title lang="zh">前情提要-电视剧（高清文件）</title>
+  <programme start="20260625205400 +0800" stop="20260625205800 +0800" channel="cctv1">
+    <title lang="zh">前情提要-种墨园-5/34</title>
   </programme>
-  <programme start="20260625205700 +0800" stop="20260625214600 +0800" channel="cctv1">
-    <title lang="zh">电视剧-（高清文件）</title>
+  <programme start="20260625205800 +0800" stop="20260625214700 +0800" channel="cctv1">
+    <title lang="zh">种墨园5/34</title>
   </programme>
-  <programme start="20260625214600 +0800" stop="20260625215100 +0800" channel="cctv1">
+  <programme start="20260625214700 +0800" stop="20260625215300 +0800" channel="cctv1">
     <title lang="zh">三餐四季（第二季）-宣传片</title>
   </programme>
-  <programme start="20260625215100 +0800" stop="20260625220000 +0800" channel="cctv1">
+  <programme start="20260625215300 +0800" stop="20260625220000 +0800" channel="cctv1">
     <title lang="zh">非遗里的中国-MV</title>
   </programme>
   <programme start="20260625220000 +0800" stop="20260625223500 +0800" channel="cctv1">
@@ -411,11 +411,11 @@
   <programme start="20260626220000 +0800" stop="20260626223500 +0800" channel="cctv1">
     <title lang="zh">晚间新闻</title>
   </programme>
-  <programme start="20260626223500 +0800" stop="20260626231100 +0800" channel="cctv1">
-    <title lang="zh">自然中国-严守耕地红线-田脉永续</title>
+  <programme start="20260626223500 +0800" stop="20260626233100 +0800" channel="cctv1">
+    <title lang="zh">周末一起看电影-4</title>
   </programme>
-  <programme start="20260626231100 +0800" stop="20260627011100 +0800" channel="cctv1">
-    <title lang="zh">非遗里的中国（第四季）-甘肃篇（精编）</title>
+  <programme start="20260626233100 +0800" stop="20260627013100 +0800" channel="cctv1">
+    <title lang="zh">自然中国-严守耕地红线-田脉永续</title>
   </programme>
   <programme start="20260624001800 +0800" stop="20260624011900 +0800" channel="cctv2">
     <title lang="zh">一槌定音-2026-28</title>
@@ -2341,7 +2341,7 @@
     <title lang="zh">星推荐-2026年6月-24</title>
   </programme>
   <programme start="20260625124200 +0800" stop="20260625133800 +0800" channel="cctv8">
-    <title lang="zh">莫离31/40</title>
+    <title lang="zh">莫离第31集</title>
   </programme>
   <programme start="20260625133800 +0800" stop="20260625143300 +0800" channel="cctv8">
     <title lang="zh">大山的女儿第13集</title>
