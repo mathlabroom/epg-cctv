@@ -246,16 +246,16 @@
   <programme start="20260706190000 +0800" stop="20260706193800 +0800" channel="cctv1">
     <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20260706193800 +0800" stop="20260706195900 +0800" channel="cctv1">
+  <programme start="20260706193800 +0800" stop="20260706195800 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20260706195900 +0800" stop="20260706200300 +0800" channel="cctv1">
+  <programme start="20260706195800 +0800" stop="20260706200100 +0800" channel="cctv1">
     <title lang="zh">前情提要-种墨园-第15集</title>
   </programme>
-  <programme start="20260706200300 +0800" stop="20260706205400 +0800" channel="cctv1">
+  <programme start="20260706200100 +0800" stop="20260706205200 +0800" channel="cctv1">
     <title lang="zh">种墨园15/34</title>
   </programme>
-  <programme start="20260706205400 +0800" stop="20260706205500 +0800" channel="cctv1">
+  <programme start="20260706205200 +0800" stop="20260706205500 +0800" channel="cctv1">
     <title lang="zh">前情提要-种墨园-16/34</title>
   </programme>
   <programme start="20260706205500 +0800" stop="20260706214400 +0800" channel="cctv1">
@@ -1572,8 +1572,11 @@
   <programme start="20260706110500 +0800" stop="20260706120600 +0800" channel="cctv5plus">
     <title lang="zh">2026年国际马联国家联赛-鹿特丹站</title>
   </programme>
-  <programme start="20260706120600 +0800" stop="20260706133600 +0800" channel="cctv5plus">
-    <title lang="zh">2026年国际篮联U17世界杯-半决赛（4K）</title>
+  <programme start="20260706120600 +0800" stop="20260706132800 +0800" channel="cctv5plus">
+    <title lang="zh">实况录像-2026世界杯 1/8决赛 巴拉圭队-法国队</title>
+  </programme>
+  <programme start="20260706132800 +0800" stop="20260706133600 +0800" channel="cctv5plus">
+    <title lang="zh">健身动起来-2026-146</title>
   </programme>
   <programme start="20260706133600 +0800" stop="20260706150700 +0800" channel="cctv5plus">
     <title lang="zh">实况录像-2026年世界田联钻石联赛 巴黎站</title>
