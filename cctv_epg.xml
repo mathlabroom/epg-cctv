@@ -237,19 +237,19 @@
   <programme start="20260713195900 +0800" stop="20260713200300 +0800" channel="cctv1">
     <title lang="zh">前情提要-种墨园-第24集</title>
   </programme>
-  <programme start="20260713200300 +0800" stop="20260713205400 +0800" channel="cctv1">
+  <programme start="20260713200300 +0800" stop="20260713205300 +0800" channel="cctv1">
     <title lang="zh">种墨园24/34</title>
   </programme>
-  <programme start="20260713205400 +0800" stop="20260713205500 +0800" channel="cctv1">
+  <programme start="20260713205300 +0800" stop="20260713205600 +0800" channel="cctv1">
     <title lang="zh">前情提要-种墨园-第25集</title>
   </programme>
-  <programme start="20260713205500 +0800" stop="20260713214400 +0800" channel="cctv1">
+  <programme start="20260713205600 +0800" stop="20260713214500 +0800" channel="cctv1">
     <title lang="zh">种墨园25/34</title>
   </programme>
-  <programme start="20260713214400 +0800" stop="20260713215100 +0800" channel="cctv1">
+  <programme start="20260713214500 +0800" stop="20260713215200 +0800" channel="cctv1">
     <title lang="zh">非遗里的中国-MV</title>
   </programme>
-  <programme start="20260713215100 +0800" stop="20260713220000 +0800" channel="cctv1">
+  <programme start="20260713215200 +0800" stop="20260713220000 +0800" channel="cctv1">
     <title lang="zh">三餐四季（第二季）-宣传片</title>
   </programme>
   <programme start="20260713220000 +0800" stop="20260713223500 +0800" channel="cctv1">
@@ -1996,7 +1996,7 @@
     <title lang="zh">世界战史-2026-133</title>
   </programme>
   <programme start="20260713173100 +0800" stop="20260713180000 +0800" channel="cctv7">
-    <title lang="zh">军事纪录-2026-133</title>
+    <title lang="zh">军事纪录-2026-134</title>
   </programme>
   <programme start="20260713180000 +0800" stop="20260713180200 +0800" channel="cctv7">
     <title lang="zh">国防微视频-军歌嘹亮-红其拉甫边防连连歌（2026精编版）</title>
@@ -2005,7 +2005,7 @@
     <title lang="zh">兵器面面观-2026-138</title>
   </programme>
   <programme start="20260713182800 +0800" stop="20260713190000 +0800" channel="cctv7">
-    <title lang="zh">国防故事-2026-96</title>
+    <title lang="zh">国防故事-2026-100</title>
   </programme>
   <programme start="20260713190000 +0800" stop="20260713193300 +0800" channel="cctv7">
     <title lang="zh">新闻联播</title>
@@ -2074,7 +2074,7 @@
     <title lang="zh">世界战史-2026-133</title>
   </programme>
   <programme start="20260714110100 +0800" stop="20260714112800 +0800" channel="cctv7">
-    <title lang="zh">国防故事-2026-96</title>
+    <title lang="zh">国防故事-2026-100</title>
   </programme>
   <programme start="20260714112800 +0800" stop="20260714115300 +0800" channel="cctv7">
     <title lang="zh">军事纪录-2026-133</title>
