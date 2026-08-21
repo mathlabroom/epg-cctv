@@ -151,13 +151,13 @@
     <title lang="zh">前情提要-藏锋-第7集</title>
   </programme>
   <programme start="20260821200400 +0800" stop="20260821205400 +0800" channel="cctv1">
-    <title lang="zh">藏锋7/23</title>
+    <title lang="zh">藏锋第7集</title>
   </programme>
   <programme start="20260821205400 +0800" stop="20260821205700 +0800" channel="cctv1">
     <title lang="zh">前情提要-藏锋-第8集</title>
   </programme>
   <programme start="20260821205700 +0800" stop="20260821214400 +0800" channel="cctv1">
-    <title lang="zh">藏锋8/23</title>
+    <title lang="zh">藏锋第8集</title>
   </programme>
   <programme start="20260821214400 +0800" stop="20260821215100 +0800" channel="cctv1">
     <title lang="zh">非遗里的中国-MV</title>
@@ -249,16 +249,16 @@
   <programme start="20260822190000 +0800" stop="20260822193900 +0800" channel="cctv1">
     <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20260822193900 +0800" stop="20260822200200 +0800" channel="cctv1">
+  <programme start="20260822193900 +0800" stop="20260822200300 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20260822200200 +0800" stop="20260822214400 +0800" channel="cctv1">
+  <programme start="20260822200300 +0800" stop="20260822214400 +0800" channel="cctv1">
     <title lang="zh">非遗里的中国（第五季）-四川德阳篇</title>
   </programme>
-  <programme start="20260822214400 +0800" stop="20260822215100 +0800" channel="cctv1">
+  <programme start="20260822214400 +0800" stop="20260822215200 +0800" channel="cctv1">
     <title lang="zh">三餐四季-宣传片</title>
   </programme>
-  <programme start="20260822215100 +0800" stop="20260822220000 +0800" channel="cctv1">
+  <programme start="20260822215200 +0800" stop="20260822220000 +0800" channel="cctv1">
     <title lang="zh">非遗里的中国-MV</title>
   </programme>
   <programme start="20260822220000 +0800" stop="20260822223500 +0800" channel="cctv1">
@@ -351,23 +351,23 @@
   <programme start="20260823193800 +0800" stop="20260823200100 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20260823200100 +0800" stop="20260823214200 +0800" channel="cctv1">
-    <title lang="zh">金石探文明-8</title>
+  <programme start="20260823200100 +0800" stop="20260823213500 +0800" channel="cctv1">
+    <title lang="zh">金石探文明-秦公鎛</title>
   </programme>
-  <programme start="20260823214200 +0800" stop="20260823215200 +0800" channel="cctv1">
+  <programme start="20260823213500 +0800" stop="20260823214600 +0800" channel="cctv1">
     <title lang="zh">三餐四季-宣传片</title>
   </programme>
-  <programme start="20260823215200 +0800" stop="20260823220000 +0800" channel="cctv1">
-    <title lang="zh">非遗里的中国-MV</title>
+  <programme start="20260823214600 +0800" stop="20260823220000 +0800" channel="cctv1">
+    <title lang="zh">中华古树-德化樟树王（4K）</title>
   </programme>
   <programme start="20260823220000 +0800" stop="20260823223500 +0800" channel="cctv1">
     <title lang="zh">晚间新闻</title>
   </programme>
-  <programme start="20260823223500 +0800" stop="20260823232400 +0800" channel="cctv1">
-    <title lang="zh">礼乐东方-6</title>
+  <programme start="20260823223500 +0800" stop="20260823232900 +0800" channel="cctv1">
+    <title lang="zh">周末一起看电影-5</title>
   </programme>
-  <programme start="20260823232400 +0800" stop="20260824012400 +0800" channel="cctv1">
-    <title lang="zh">三餐四季（第三季）-3天津</title>
+  <programme start="20260823232900 +0800" stop="20260824012900 +0800" channel="cctv1">
+    <title lang="zh">非遗里的中国（第五季）-四川德阳篇</title>
   </programme>
   <programme start="20260821002300 +0800" stop="20260821005300 +0800" channel="cctv2">
     <title lang="zh">经济半小时</title>
@@ -2212,13 +2212,13 @@
     <title lang="zh">本集提要-重器-第23集</title>
   </programme>
   <programme start="20260821193000 +0800" stop="20260821202500 +0800" channel="cctv8">
-    <title lang="zh">重器23/33</title>
+    <title lang="zh">重器第23集</title>
   </programme>
   <programme start="20260821202500 +0800" stop="20260821203000 +0800" channel="cctv8">
     <title lang="zh">本集提要-重器-第24集</title>
   </programme>
   <programme start="20260821203000 +0800" stop="20260821212400 +0800" channel="cctv8">
-    <title lang="zh">重器24/33</title>
+    <title lang="zh">重器第24集</title>
   </programme>
   <programme start="20260821212400 +0800" stop="20260821212900 +0800" channel="cctv8">
     <title lang="zh">本集提要-能有多大事-第13集</title>
@@ -2329,13 +2329,13 @@
     <title lang="zh">本集提要-重器-第25集</title>
   </programme>
   <programme start="20260822193000 +0800" stop="20260822202500 +0800" channel="cctv8">
-    <title lang="zh">重器25/33</title>
+    <title lang="zh">重器第25集</title>
   </programme>
   <programme start="20260822202500 +0800" stop="20260822203000 +0800" channel="cctv8">
     <title lang="zh">本集提要-重器-第26集</title>
   </programme>
   <programme start="20260822203000 +0800" stop="20260822212400 +0800" channel="cctv8">
-    <title lang="zh">重器26/33</title>
+    <title lang="zh">重器第26集</title>
   </programme>
   <programme start="20260822212400 +0800" stop="20260822212900 +0800" channel="cctv8">
     <title lang="zh">本集提要-能有多大事-第15集</title>
@@ -3121,7 +3121,7 @@
     <title lang="zh">凡人歌第28集</title>
   </programme>
   <programme start="20260822130100 +0800" stop="20260822135100 +0800" channel="cctv11">
-    <title lang="zh">凡人歌29/37</title>
+    <title lang="zh">凡人歌第29集</title>
   </programme>
   <programme start="20260822135100 +0800" stop="20260822151500 +0800" channel="cctv11">
     <title lang="zh">戏韵风华 星耀合肥-中央广播电视总台首届戏曲知音大会-7</title>
@@ -3159,20 +3159,23 @@
   <programme start="20260823011400 +0800" stop="20260823060600 +0800" channel="cctv11">
     <title lang="zh">再见</title>
   </programme>
-  <programme start="20260823060600 +0800" stop="20260823071700 +0800" channel="cctv11">
+  <programme start="20260823060600 +0800" stop="20260823071600 +0800" channel="cctv11">
     <title lang="zh">青春戏苑-2026-221戏韵童声（五）</title>
   </programme>
-  <programme start="20260823071700 +0800" stop="20260823083200 +0800" channel="cctv11">
+  <programme start="20260823071600 +0800" stop="20260823083100 +0800" channel="cctv11">
     <title lang="zh">梨园闯关我挂帅-2025-50</title>
   </programme>
-  <programme start="20260823083200 +0800" stop="20260823090600 +0800" channel="cctv11">
+  <programme start="20260823083100 +0800" stop="20260823090500 +0800" channel="cctv11">
     <title lang="zh">青春戏苑-2026-160 动画相声专辑20</title>
   </programme>
-  <programme start="20260823090600 +0800" stop="20260823093600 +0800" channel="cctv11">
-    <title lang="zh">天下第一团-雁北耍孩儿</title>
+  <programme start="20260823090500 +0800" stop="20260823093000 +0800" channel="cctv11">
+    <title lang="zh">异曲同“功”-2</title>
   </programme>
-  <programme start="20260823093600 +0800" stop="20260823112900 +0800" channel="cctv11">
+  <programme start="20260823093000 +0800" stop="20260823110800 +0800" channel="cctv11">
     <title lang="zh">雏凤新声——中央广播电视总台 首届少儿戏曲大会-11</title>
+  </programme>
+  <programme start="20260823110800 +0800" stop="20260823112900 +0800" channel="cctv11">
+    <title lang="zh">四时花开-牡丹篇</title>
   </programme>
   <programme start="20260823112900 +0800" stop="20260823121900 +0800" channel="cctv11">
     <title lang="zh">凡人歌30/37</title>
@@ -3478,7 +3481,7 @@
     <title lang="zh">现在开庭-2026-52</title>
   </programme>
   <programme start="20260823210000 +0800" stop="20260823213000 +0800" channel="cctv12">
-    <title lang="zh">高墙内外-2026-34</title>
+    <title lang="zh">高墙内外-2026-32</title>
   </programme>
   <programme start="20260823213000 +0800" stop="20260823222300 +0800" channel="cctv12">
     <title lang="zh">剧懂法2025-99</title>
@@ -5275,7 +5278,7 @@
     <title lang="zh">华人故事-2026-35</title>
   </programme>
   <programme start="20260823114800 +0800" stop="20260823120000 +0800" channel="cctvamerica">
-    <title lang="zh">国家公园精彩片段-13</title>
+    <title lang="zh">国家公园精彩片段-10</title>
   </programme>
   <programme start="20260823120000 +0800" stop="20260823131500 +0800" channel="cctvamerica">
     <title lang="zh">中国新闻</title>
