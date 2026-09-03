@@ -261,22 +261,22 @@
   <programme start="20260904190000 +0800" stop="20260904194000 +0800" channel="cctv1">
     <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20260904194000 +0800" stop="20260904200100 +0800" channel="cctv1">
+  <programme start="20260904194000 +0800" stop="20260904200200 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20260904200100 +0800" stop="20260904200500 +0800" channel="cctv1">
+  <programme start="20260904200200 +0800" stop="20260904200500 +0800" channel="cctv1">
     <title lang="zh">前情提要-生逢其时-第2集</title>
   </programme>
-  <programme start="20260904200500 +0800" stop="20260904205400 +0800" channel="cctv1">
+  <programme start="20260904200500 +0800" stop="20260904205600 +0800" channel="cctv1">
     <title lang="zh">生逢其时2/26</title>
   </programme>
-  <programme start="20260904205400 +0800" stop="20260904205600 +0800" channel="cctv1">
+  <programme start="20260904205600 +0800" stop="20260904210000 +0800" channel="cctv1">
     <title lang="zh">前情提要-生逢其时-第3集</title>
   </programme>
-  <programme start="20260904205600 +0800" stop="20260904215000 +0800" channel="cctv1">
+  <programme start="20260904210000 +0800" stop="20260904215100 +0800" channel="cctv1">
     <title lang="zh">生逢其时3/26</title>
   </programme>
-  <programme start="20260904215000 +0800" stop="20260904220000 +0800" channel="cctv1">
+  <programme start="20260904215100 +0800" stop="20260904220000 +0800" channel="cctv1">
     <title lang="zh">非遗里的中国-MV</title>
   </programme>
   <programme start="20260904220000 +0800" stop="20260904223500 +0800" channel="cctv1">
@@ -868,7 +868,7 @@
     <title lang="zh">越战越勇-2026-34</title>
   </programme>
   <programme start="20260904193000 +0800" stop="20260904204600 +0800" channel="cctv3">
-    <title lang="zh">CMG夏日歌会-海南东方篇</title>
+    <title lang="zh">CMG歌会-海南东方篇1</title>
   </programme>
   <programme start="20260904204600 +0800" stop="20260904215400 +0800" channel="cctv3">
     <title lang="zh">新花路放—最美的心愿之旅-3</title>
