@@ -771,61 +771,70 @@
   <programme start="20260926212500 +0800" stop="20260926220300 +0800" channel="cctv3">
     <title lang="zh">2026我们的村节-4</title>
   </programme>
-  <programme start="20260926220300 +0800" stop="20260926232000 +0800" channel="cctv3">
-    <title lang="zh">第十三届丝绸之路国际电影节-闭幕式-完整版</title>
+  <programme start="20260926220300 +0800" stop="20260926223700 +0800" channel="cctv3">
+    <title lang="zh">第十三届丝绸之路国际电影节-闭幕式-1/3</title>
   </programme>
-  <programme start="20260926232000 +0800" stop="20260927000600 +0800" channel="cctv3">
+  <programme start="20260926223700 +0800" stop="20260926231100 +0800" channel="cctv3">
+    <title lang="zh">第十三届丝绸之路国际电影节-闭幕式-2/3</title>
+  </programme>
+  <programme start="20260926231100 +0800" stop="20260926234800 +0800" channel="cctv3">
+    <title lang="zh">第十三届丝绸之路国际电影节-闭幕式-3/3</title>
+  </programme>
+  <programme start="20260926234800 +0800" stop="20260927003400 +0800" channel="cctv3">
     <title lang="zh">综艺喜乐汇-2026-979 爱在平凡 5/30</title>
   </programme>
-  <programme start="20260927000600 +0800" stop="20260927005200 +0800" channel="cctv3">
+  <programme start="20260927003400 +0800" stop="20260927012000 +0800" channel="cctv3">
     <title lang="zh">综艺喜乐汇-2026-980 爱在平凡 6/30</title>
   </programme>
-  <programme start="20260927005200 +0800" stop="20260927013800 +0800" channel="cctv3">
+  <programme start="20260927012000 +0800" stop="20260927020600 +0800" channel="cctv3">
     <title lang="zh">综艺喜乐汇-2026-981 爱在平凡 7/30</title>
   </programme>
-  <programme start="20260927013800 +0800" stop="20260927032100 +0800" channel="cctv3">
+  <programme start="20260927020600 +0800" stop="20260927034900 +0800" channel="cctv3">
     <title lang="zh">影视留声机-2026-120-经典电影欣赏《她俩和他俩》</title>
   </programme>
-  <programme start="20260927032100 +0800" stop="20260927043800 +0800" channel="cctv3">
+  <programme start="20260927034900 +0800" stop="20260927051200 +0800" channel="cctv3">
     <title lang="zh">星光大道-2026-39</title>
   </programme>
-  <programme start="20260927043800 +0800" stop="20260927055000 +0800" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2026-1068 此生要去的100个地方 2</title>
+  <programme start="20260927051200 +0800" stop="20260927061500 +0800" channel="cctv3">
+    <title lang="zh">跟着春晚游中国（义乌篇）-1</title>
   </programme>
-  <programme start="20260927055000 +0800" stop="20260927055300 +0800" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2026-1127 万疆</title>
-  </programme>
-  <programme start="20260927055300 +0800" stop="20260927055900 +0800" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2026-1138 红楼梦</title>
-  </programme>
-  <programme start="20260927055900 +0800" stop="20260927062100 +0800" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2026-1100 锦绣神州 歌曲集锦14</title>
-  </programme>
-  <programme start="20260927062100 +0800" stop="20260927072800 +0800" channel="cctv3">
+  <programme start="20260927061500 +0800" stop="20260927072300 +0800" channel="cctv3">
     <title lang="zh">精彩音乐汇-我的爱对你说-2026-519</title>
   </programme>
-  <programme start="20260927072800 +0800" stop="20260927085500 +0800" channel="cctv3">
-    <title lang="zh">你好时光（第二季）-5</title>
+  <programme start="20260927072300 +0800" stop="20260927084900 +0800" channel="cctv3">
+    <title lang="zh">你好时光（第二季）-3</title>
   </programme>
-  <programme start="20260927085500 +0800" stop="20260927110400 +0800" channel="cctv3">
-    <title lang="zh">中央广播电视总台2026年中秋晚会-1</title>
+  <programme start="20260927084900 +0800" stop="20260927091900 +0800" channel="cctv3">
+    <title lang="zh">中央广播电视总台2026年中秋晚会-2</title>
   </programme>
-  <programme start="20260927110400 +0800" stop="20260927123500 +0800" channel="cctv3">
+  <programme start="20260927091900 +0800" stop="20260927095200 +0800" channel="cctv3">
+    <title lang="zh">中央广播电视总台2026年中秋晚会-3</title>
+  </programme>
+  <programme start="20260927095200 +0800" stop="20260927102600 +0800" channel="cctv3">
+    <title lang="zh">中央广播电视总台2026年中秋晚会-4</title>
+  </programme>
+  <programme start="20260927102600 +0800" stop="20260927104900 +0800" channel="cctv3">
+    <title lang="zh">中央广播电视总台2026年中秋晚会-5</title>
+  </programme>
+  <programme start="20260927104900 +0800" stop="20260927122000 +0800" channel="cctv3">
     <title lang="zh">开门大吉-2026-35</title>
   </programme>
-  <programme start="20260927123500 +0800" stop="20260927134500 +0800" channel="cctv3">
+  <programme start="20260927122000 +0800" stop="20260927133000 +0800" channel="cctv3">
     <title lang="zh">戏韵风华 星耀合肥-中央广播电视总台首届戏曲知音大会-10</title>
   </programme>
-  <programme start="20260927134500 +0800" stop="20260927151000 +0800" channel="cctv3">
+  <programme start="20260927133000 +0800" stop="20260927145500 +0800" channel="cctv3">
     <title lang="zh">越战越勇-2026-29</title>
   </programme>
-  <programme start="20260927151000 +0800" stop="20260927162200 +0800" channel="cctv3">
-    <title lang="zh">跟着春晚游中国（宜宾篇）-3</title>
+  <programme start="20260927145500 +0800" stop="20260927155700 +0800" channel="cctv3">
+    <title lang="zh">远山之约（蜀山篇）-5</title>
   </programme>
-  <programme start="20260927162200 +0800" stop="20260927180600 +0800" channel="cctv3">
+  <programme start="20260927155700 +0800" stop="20260927175100 +0800" channel="cctv3">
     <title lang="zh">喜满中秋-1</title>
   </programme>
-  <programme start="20260927180600 +0800" stop="20260927192400 +0800" channel="cctv3">
+  <programme start="20260927175100 +0800" stop="20260927180000 +0800" channel="cctv3">
+    <title lang="zh">综艺喜乐汇-2026-1032 咏春</title>
+  </programme>
+  <programme start="20260927180000 +0800" stop="20260927192400 +0800" channel="cctv3">
     <title lang="zh">开门大吉-2026-37</title>
   </programme>
   <programme start="20260927192400 +0800" stop="20260927193000 +0800" channel="cctv3">
@@ -849,20 +858,17 @@
   <programme start="20260928015200 +0800" stop="20260928023800 +0800" channel="cctv3">
     <title lang="zh">综艺喜乐汇-2026-984 爱在平凡10/30</title>
   </programme>
-  <programme start="20260928023800 +0800" stop="20260928043200 +0800" channel="cctv3">
+  <programme start="20260928023800 +0800" stop="20260928041200 +0800" channel="cctv3">
     <title lang="zh">影视留声机-2026-99-经典电影欣赏《心弦》欣赏</title>
   </programme>
-  <programme start="20260928043200 +0800" stop="20260928062100 +0800" channel="cctv3">
+  <programme start="20260928041200 +0800" stop="20260928060100 +0800" channel="cctv3">
     <title lang="zh">第二届丝路之星国际音乐大赛-1</title>
   </programme>
-  <programme start="20260928062100 +0800" stop="20260928062500 +0800" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2026-1128 岁月长情</title>
+  <programme start="20260928060100 +0800" stop="20260928060400 +0800" channel="cctv3">
+    <title lang="zh">综艺喜乐汇-2026-1036 喜雨</title>
   </programme>
-  <programme start="20260928062500 +0800" stop="20260928062900 +0800" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2026-1038 闪耀动起来</title>
-  </programme>
-  <programme start="20260928062900 +0800" stop="20260928065600 +0800" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2026-1090 锦绣神州 歌曲集锦 4</title>
+  <programme start="20260928060400 +0800" stop="20260928065600 +0800" channel="cctv3">
+    <title lang="zh">远山之约（蜀山篇）-3</title>
   </programme>
   <programme start="20260928065600 +0800" stop="20260928080000 +0800" channel="cctv3">
     <title lang="zh">戏韵风华 星耀合肥-中央广播电视总台首届戏曲知音大会-10</title>
