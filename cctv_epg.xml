@@ -3447,10 +3447,10 @@
   <programme start="20260927190000 +0800" stop="20260927193200 +0800" channel="cctv13">
     <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20260927193200 +0800" stop="20260927194000 +0800" channel="cctv13">
+  <programme start="20260927193200 +0800" stop="20260927193700 +0800" channel="cctv13">
     <title lang="zh">天气预报</title>
   </programme>
-  <programme start="20260927194000 +0800" stop="20260927200000 +0800" channel="cctv13">
+  <programme start="20260927193700 +0800" stop="20260927200000 +0800" channel="cctv13">
     <title lang="zh">焦点访谈</title>
   </programme>
   <programme start="20260927200000 +0800" stop="20260927210000 +0800" channel="cctv13">
@@ -3486,11 +3486,8 @@
   <programme start="20260928021500 +0800" stop="20260928030000 +0800" channel="cctv13">
     <title lang="zh">面对面</title>
   </programme>
-  <programme start="20260928030000 +0800" stop="20260928032400 +0800" channel="cctv13">
+  <programme start="20260928030000 +0800" stop="20260928034000 +0800" channel="cctv13">
     <title lang="zh">新闻直播间</title>
-  </programme>
-  <programme start="20260928032400 +0800" stop="20260928034000 +0800" channel="cctv13">
-    <title lang="zh">焦点访谈</title>
   </programme>
   <programme start="20260928034000 +0800" stop="20260928040000 +0800" channel="cctv13">
     <title lang="zh">每周质量报告</title>
