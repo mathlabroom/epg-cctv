@@ -273,17 +273,17 @@
   <programme start="20261005052700 +0800" stop="20261005060000 +0800" channel="cctv1">
     <title lang="zh">农耕探文明-2025-2</title>
   </programme>
-  <programme start="20261005060000 +0800" stop="20261005083500 +0800" channel="cctv1">
+  <programme start="20261005060000 +0800" stop="20261005083300 +0800" channel="cctv1">
     <title lang="zh">朝闻天下</title>
   </programme>
-  <programme start="20261005083500 +0800" stop="20261005091400 +0800" channel="cctv1">
+  <programme start="20261005083300 +0800" stop="20261005091400 +0800" channel="cctv1">
     <title lang="zh">生活早参考-特别节目（生活圈）2026-273</title>
   </programme>
   <programme start="20261005091400 +0800" stop="20261005100000 +0800" channel="cctv1">
     <title lang="zh">生逢其时5/26</title>
   </programme>
   <programme start="20261005100000 +0800" stop="20261005110500 +0800" channel="cctv1">
-    <title lang="zh">专题节目-1</title>
+    <title lang="zh">新闻直播间</title>
   </programme>
   <programme start="20261005110500 +0800" stop="20261005115300 +0800" channel="cctv1">
     <title lang="zh">生逢其时6/26</title>
@@ -1449,10 +1449,10 @@
   <programme start="20261003115500 +0800" stop="20261003150000 +0800" channel="cctv5plus">
     <title lang="zh">2026年亚运会-赛事直播15</title>
   </programme>
-  <programme start="20261003150000 +0800" stop="20261003170000 +0800" channel="cctv5plus">
+  <programme start="20261003150000 +0800" stop="20261003190000 +0800" channel="cctv5plus">
     <title lang="zh">2026年中国网球公开赛-女单、男单第二轮2</title>
   </programme>
-  <programme start="20261003170000 +0800" stop="20261003203500 +0800" channel="cctv5plus">
+  <programme start="20261003190000 +0800" stop="20261003203500 +0800" channel="cctv5plus">
     <title lang="zh">2026年亚运会-赛事直播16</title>
   </programme>
   <programme start="20261003203500 +0800" stop="20261003215600 +0800" channel="cctv5plus">
@@ -4072,7 +4072,7 @@
     <title lang="zh">2026年中国网球公开赛-女单第三轮/男单1/4决赛</title>
   </programme>
   <programme start="20261004150500 +0800" stop="20261004163500 +0800" channel="cctv16">
-    <title lang="zh">实况录像（奥林匹克）-2026年亚运会 女足决赛</title>
+    <title lang="zh">实况录像（奥林匹克）-2026年亚运会 体操女子团体决赛（4K）</title>
   </programme>
   <programme start="20261004163500 +0800" stop="20261004180000 +0800" channel="cctv16">
     <title lang="zh">实况录像（奥林匹克）-2026年亚运会 男篮1/4决赛</title>
