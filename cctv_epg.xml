@@ -820,7 +820,7 @@
     <title lang="zh">全民畅舞-20</title>
   </programme>
   <programme start="20261009113000 +0800" stop="20261009130000 +0800" channel="cctv3">
-    <title lang="zh">星光大道-2026-49</title>
+    <title lang="zh">开门大吉-2026-28</title>
   </programme>
   <programme start="20261009130000 +0800" stop="20261009132400 +0800" channel="cctv3">
     <title lang="zh">文化十分-2026-204</title>
@@ -1365,10 +1365,10 @@
   <programme start="20261008180000 +0800" stop="20261008183000 +0800" channel="cctv5">
     <title lang="zh">体育新闻</title>
   </programme>
-  <programme start="20261008183000 +0800" stop="20261008213000 +0800" channel="cctv5">
+  <programme start="20261008183000 +0800" stop="20261008220500 +0800" channel="cctv5">
     <title lang="zh">WTT中国大满贯2026-混双半决赛等</title>
   </programme>
-  <programme start="20261008213000 +0800" stop="20261008223500 +0800" channel="cctv5">
+  <programme start="20261008220500 +0800" stop="20261008223500 +0800" channel="cctv5">
     <title lang="zh">体育世界</title>
   </programme>
   <programme start="20261008223500 +0800" stop="20261008230500 +0800" channel="cctv5">
@@ -1416,14 +1416,11 @@
   <programme start="20261009120000 +0800" stop="20261009123000 +0800" channel="cctv5">
     <title lang="zh">体坛快讯</title>
   </programme>
-  <programme start="20261009123000 +0800" stop="20261009140000 +0800" channel="cctv5">
+  <programme start="20261009123000 +0800" stop="20261009130000 +0800" channel="cctv5">
     <title lang="zh">WTT中国大满贯2026-双打半决赛等</title>
   </programme>
-  <programme start="20261009140000 +0800" stop="20261009150000 +0800" channel="cctv5">
-    <title lang="zh">实况录像-2026年世界泳联游泳世界杯 阿塞拜疆站2</title>
-  </programme>
-  <programme start="20261009150000 +0800" stop="20261009170000 +0800" channel="cctv5">
-    <title lang="zh">2026年中国网球公开赛-女单1/4决赛2</title>
+  <programme start="20261009130000 +0800" stop="20261009170000 +0800" channel="cctv5">
+    <title lang="zh">2026年中国网球公开赛-女双、女单1/4决赛</title>
   </programme>
   <programme start="20261009170000 +0800" stop="20261009173000 +0800" channel="cctv5">
     <title lang="zh">实况录像-2026年国际篮联U23三人篮球世界杯（4K）</title>
@@ -1576,7 +1573,7 @@
     <title lang="zh">实况录像-2026年国际篮联U23三人篮球世界杯（4K）</title>
   </programme>
   <programme start="20261009130000 +0800" stop="20261009150600 +0800" channel="cctv5plus">
-    <title lang="zh">2026年中国网球公开赛-女双、女单1/4决赛3</title>
+    <title lang="zh">WTT中国大满贯2026-双打半决赛 单打1/4决赛</title>
   </programme>
   <programme start="20261009150600 +0800" stop="20261009163800 +0800" channel="cctv5plus">
     <title lang="zh">实况录像-2026年亚运会 男排决赛</title>
