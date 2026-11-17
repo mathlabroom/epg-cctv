@@ -264,13 +264,13 @@
   <programme start="20261118190000 +0800" stop="20261118193800 +0800" channel="cctv1">
     <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20261118193800 +0800" stop="20261118195900 +0800" channel="cctv1">
+  <programme start="20261118193800 +0800" stop="20261118200000 +0800" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20261118195900 +0800" stop="20261118200200 +0800" channel="cctv1">
+  <programme start="20261118200000 +0800" stop="20261118200300 +0800" channel="cctv1">
     <title lang="zh">前情提要-多喜一家人-第5集</title>
   </programme>
-  <programme start="20261118200200 +0800" stop="20261118205300 +0800" channel="cctv1">
+  <programme start="20261118200300 +0800" stop="20261118205300 +0800" channel="cctv1">
     <title lang="zh">多喜一家人5/34</title>
   </programme>
   <programme start="20261118205300 +0800" stop="20261118205600 +0800" channel="cctv1">
